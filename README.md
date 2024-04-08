@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Golang and AWS serverless services<br>🎯 Goals: Be a leader; AWS Architecture and Golang developer<br>🎲 Fun fact: I'm a chemist that decides to live coding 👨‍🔬</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Golang and AWS serverless services<br>🎯 Goals: Be a leader; AWS Architecture and Golang developer<br>🎲 Fun fact: I'm a chemist who decided to live his life coding 👨‍🔬</p>
 
 ###
 
