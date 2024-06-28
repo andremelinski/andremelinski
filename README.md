@@ -1,6 +1,5 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <img src="https://matheus.me/img/logo.svg" width="120" alt="Logo">
   <p align="center">I'm André Melinski, a Backend Software Engineer from Curitiba/Brazil! 👋🏽</p>
 </p>
 
