@@ -1,61 +1,43 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <img src="https://matheus.me/img/logo.svg" width="120" alt="Logo">
+  <p align="center">I'm André Melinski, a Backend Software Engineer from Curitiba/Brazil! 👋🏽</p>
+</p>
 
-###
-
-<p align="left">My name is André Melinski and I'm a fulltime dad 👨‍👧 and developer, from Brazil.<br>Passions: <br>- Code 💻<br>- Gym 🏋, <br>- Coffee ☕, <br>- Beer 🍻 <br>My focus now is to improve my leadership and my backend skills. <br>This Github is not so fulfilled as I wish since I'm using another account to do my work, but I'll start to post more about my knowledge here. <br>Learning a little bit more every day even if not code related.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Golang and AWS serverless services<br>🎯 Goals: Be a leader; AWS Architecture and Golang developer<br>🎲 Fun fact: I'm a chemist who decided to live his life coding 👨‍🔬</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
-</div>
-
-###
-
-<h2 align="left">Contacts</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/andr%C3%A9-melinski-aab0b6138/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://matheus.me" target="_blank">
+    <img src="https://img.shields.io/badge/Website-333?style=flat-square&logoColor=white" alt="linkedin">
   </a>
-  <a href="andremelinski@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="[https://linkedin.com/in/mathcale](https://www.linkedin.com/in/andr%C3%A9-melinski-aab0b6138/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
-  <a href="andremelinski1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
+</p>
 
-###
+## 💻 Stuff I enjoy working with
+
+### Languages
+
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![javascript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+
+### Frameworks, Libraries & Tools
+
+![Chi](https://img.shields.io/badge/Chi-40B5A4?style=flat-square&logo=go&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/NodeJS-%23339933.svg?style=flat-square&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-FF0901?style=flat-square&logo=typeorm&logoColor=white)
+
+### Front-End
+
+![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Angular.JS](https://img.shields.io/badge/NextJS-black?style=flat-square&logo=next.js&logoColor=white)
+
+### Databases
+
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/angular.js-%23E23237.…tyle=for-the-badge&logo=angularjs&logoColor=white)
+
+### Cloud services and Hosting
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonwebservices&logoColor=white) 
+
+### Observability
+
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-472BF2?style=flat-square&logo=opentelemetry&logoColor=white) ![Zipkin](https://img.shields.io/badge/Zipkin-FF9900?style=flat-square&logo=apache&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=elastic&logoColor=white) 
+
+
+<!-- (partially) Created with GPRM ( https://gprm.itsvg.in ) -->
