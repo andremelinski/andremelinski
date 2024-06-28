@@ -4,9 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://matheus.me" target="_blank">
-    <img src="https://img.shields.io/badge/Website-333?style=flat-square&logoColor=white" alt="linkedin">
-  </a>
   <a href="[https://linkedin.com/in/mathcale](https://www.linkedin.com/in/andr%C3%A9-melinski-aab0b6138/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
