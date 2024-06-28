@@ -23,7 +23,7 @@
 
 ### Front-End
 
-![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Angular.JS](https://img.shields.io/badge/NextJS-black?style=flat-square&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Angular.JS](https://img.shields.io/badge/AngularJS-black?style=flat-square&logo=next.js&logoColor=white)
 
 ### Databases
 
